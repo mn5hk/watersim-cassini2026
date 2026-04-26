@@ -1,4 +1,4 @@
-# WaterSim 🥽
+# <img src="assets/watersim_logo.png" width="40" height="40" /> WaterSim
 Our submission for the Cassini Space for Water Hackathon. Noordwijk, 2026
 
 ## 🌊Description
