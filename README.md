@@ -50,6 +50,9 @@ Satellite technologies used include: GPM for rainfall, Sentinel 2 for snow, SMAP
 ## 📝Key References
 
 EO4Flood Project: https://eo4flood.org/
+
 EO4FLOOD - EO dataset for Hydrology: https://zenodo.org/records/17787732 
+
 Tarpanelli, A., Massari, C., Revilla-Romero, B. et al. The Potential of EO Data for Enhanced Flood Monitoring and Forecasting: A Consortium Assessment. Surv Geophys (2026). https://doi.org/10.1007/s10712-026-09935-w 
+
 Osanlou, K., Getirana, A., Holmes, T., & Cazenave, T. SWOT-based Simulation of River Discharge with Temporal Graph Neural Networks. In NeurIPS 2024 Workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers. 
